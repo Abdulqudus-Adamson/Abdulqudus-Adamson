@@ -1,8 +1,4 @@
-<h1>Hi 👋 My name is Adamson Abdulqudus<h1>
-<hr>
-<h3>A Rising Software Developer:man_technologist:
-<hr>
-  
+
 
 
 <!---
